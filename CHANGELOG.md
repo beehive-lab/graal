@@ -2,6 +2,10 @@
 
 This changelog summarizes major changes between Graal versions relevant to developers building technology on top of Graal. The main focus is on APIs exported by Graal but other significant performance/stability changes are mentioned as well.
 
+## Version 0.22 modified with Ternary Nodes
+* Ternary IR nodes added 
+
+
 ## `tip`
 * CompileTheWorld now includes class initializers.
 * Rename ```DebugMetric``` to ```DebugCounter```.
